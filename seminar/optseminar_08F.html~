@@ -1,0 +1,257 @@
+<TABLE width="90%" border="0" cellspacing="0" cellpadding="0">
+
+<h2> <font color="blue"><b> Optimization and Control Seminar, Fall 2008 </b></font> </h2>
+
+<!---------------------------------------------------------------------->
+ <tr class="GreyCell">
+<td><span class="InGreyCell">Thursday, Spet. 11, 2008, 12:00-1:00    </span></td>
+<td align="right"><span class="InGreyCell">SOND 406</span></td></tr>
+
+<tr class="DarkGreyCell">
+<td colspan="2"><span class="InDarkGreyCell">
+ Strict diagonal dominance and a Gersgorin type theorem in Euclidean Jordan algebras
+
+ </span></td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell">- Dr. Seetharam M. Gowda </span></td>
+<td align="right"> </td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell"> Abstract: For complex square matrices, the Levy-Desplanques theorem
+asserts that a strictly diagonally dominant matrix is invertible. The
+well-known
+Gersgorin theorem on the location of eigenvalues is equivalent to this. In
+this talk, by describing the real/spectral  eigenvalues of square
+Hermitian quaternionic matrices and 3 by 3 Hermitian octonionic matrices, 
+we show how to extend the Levy-Desplanques theorem  to an  object in a
+Euclidean Jordan algebra when its Peirce decomposition with respect to a
+Jordan frame is given. As a consequence, we present a Gersgorin type
+theorem for the spectral eigenvalues of an object in a Euclidean Jordan
+algebra.
+
+   This is joint work with Melania Moldovan.
+
+
+ </span></td>
+<td align="right"> </td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+
+<!---------------------------------------------------------------------->
+ <tr class="GreyCell">
+<td><span class="InGreyCell">Thursday, Spet. 18, 2008, 12:00-1:00    </span></td>
+<td align="right"><span class="InGreyCell">SOND 406</span></td></tr>
+
+
+<tr class="DarkGreyCell">
+<td colspan="2"><span class="InDarkGreyCell">
+Strict diagonal dominance and a Gersgorin type theorem in Euclidean Jordan algebras 
+</span></td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell">- Melania Moldovan </span></td>
+<td align="right"> </td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell"> Abstract: For complex square matrices, the Levy-Desplanques theorem
+asserts that a strictly diagonally dominant matrix is invertible. The
+well-known
+Gersgorin theorem on the location of eigenvalues is equivalent to this. In
+this talk, by describing the real/spectral  eigenvalues of square
+Hermitian quaternionic matrices and 3 by 3 Hermitian octonionic matrices, 
+we show how to extend the Levy-Desplanques theorem  to an  object in a
+Euclidean Jordan algebra when its Peirce decomposition with respect to a
+Jordan frame is given. As a consequence, we present a Gersgorin type
+theorem for the spectral eigenvalues of an object in a Euclidean Jordan
+algebra.
+
+   This is joint work with Dr. Gowda.
+
+
+ </span></td>
+<td align="right"> </td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+
+<!---------------------------------------------------------------------->
+ <tr class="GreyCell">
+<td><span class="InGreyCell">Friday, Oct. 10, 2008, 12:00-1:00    </span></td>
+<td align="right"><span class="InGreyCell">MP 401</span></td></tr>
+
+<tr class="DarkGreyCell">
+<td colspan="2"><span class="InDarkGreyCell">
+Hopf Bifurcations and Stabilization of Axial Flow Engine Compressors 
+
+</span></td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell">- Dr. Mingqing Xiao, Souther Illinois University </span></td>
+<td align="right"> </td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell"> Abstract: In recent years, control of compression systems has become a topic of much research interest to control engineers. One of the major challenges in the design and operation of compression systems is handling the instabilities that arise in the unsteady fluid structural dynamics. This is because when a turbomachine, such as a jet engine, operates near its optimal operating point, the flow can become unstable. Two kinds of instability phenomena, rotating stall and surge, are of major concern in compression systems, as they can lead to undesirable reduction in performance and even damage to engine components during operations.
+In this talk, I will present some of our recent results in controlling compression systems. I will first introduce the full-order compression system model, the so-called Moore-Greitzer model, and show that it is not (topologically) equivalent to its linearized version near the point where the pressure rise closes to its maximum. I will then show that the Moore-Greitzer model features a center manifold near this maximum pressure rise, which makes it possible to translate the study of the behavior of the local flow in the compressor into a study of the flow of two scalar ODE's on the center manifold. Using the normal form of a nonlinear system obtained through integral averaging, I will introduce a nonlinear state feedback controller, which accomplishes the tasks of preventing the closed-loop system from entering either rotating stall or surge and causing the closed-loop pressure rise coefficient to approach its maximum with the elimination of hysteresis. I will close by presenting numerical simulations of open-loop and closed-loop models, to illustrate the analysis and the results.
+(Research supported in part by NSF DMS-0605181) 
+
+ </span></td>
+<td align="right"> </td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+
+
+<!---------------------------------------------------------------------->
+ <tr class="GreyCell">
+<td><span class="InGreyCell">Thursday, Nov. 6, 2008, 12:00-1:00    </span></td>
+<td align="right"><span class="InGreyCell">SOND 406</span></td></tr>
+ 
+<tr class="DarkGreyCell">
+<td colspan="2"><span class="InDarkGreyCell">
+A homogeneous formulation of mixed linear complementarity
+problems 
+
+</span></td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell">- Cosmin Petra </span></td>
+<td align="right"> </td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell"> Abstract:In optimization, a homogeneous model is an artificial transformation of a
+given problem. The transformation is done such that the homogeneous
+problem has always a solution even if the original problem does not.
+Moreover, without having any assumption on the feasibility of the original
+problem, the homogeneous model is able to provide the solution if it
+exists, or a certificate of infeasibility otherwise.
+
+Any convex optimization problem is equivalent to a complementarity problem
+with an explicit mapping between complementarity variables. But there are
+applications (rigid-body systems with friction and contacts, for example)
+where complementarity is implicitly defined. In some cases it is possible
+to transform  from implicit form into an explicit form but the
+transformation destroys the sparsity pattern of the data and leads to poor
+numerical performance. Hence, solving implicitly defined complementarity
+problems as they naturally arise in applications is very important.
+
+In the last two decades, several homogeneous models for complementarity
+problems in explicit form were published. However, to the best of our
+knowledge, there is no homogeneous formulation of complementarity problems
+in implicit form. In this talk I will present a homogeneous formulation
+for mixed linear complementarity problems in implicit form. This is joint
+work with Dr. Florian Potra.
+
+
+ </span></td>
+<td align="right"> </td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+
+<!---------------------------------------------------------------------->
+ <tr class="GreyCell">
+<td><span class="InGreyCell">Friday, Nov. 7, 2008, 12:00-1:00    </span></td>
+<td align="right"><span class="InGreyCell">MP 401</span></td></tr> 
+
+<tr class="DarkGreyCell">
+<td colspan="2"><span class="InDarkGreyCell">
+Clustering linear and nonlinear manifolds 
+
+</span></td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell">- Dr. Rene Vidal, Johns Hopkins University </span></td>
+<td align="right"> </td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell"> Abstract: Over the past few years, various techniques have been developed for learning a low-dimensional representation of data lying in a nonlinear manifold embedded in a high-dimensional space. Unfortunately, most of these techniques are limited to the analysis of a single submanifold of a Euclidean space and suffer from degeneracies when applied to linear manifolds (subspaces). The simultaneous segmentation and estimation of a collection of submanifolds from sample data points is a challenging problem that is often thought of as "chicken-and-egg". Therefore, this problem is usually solved in two stages (1) data clustering and (2) model fitting, or else iteratively using, e.g. the Expectation Maximization (EM) algorithm.
+The first part of this talk will show that for a wide class of segmentation problems (mixtures of subspaces, mixtures of fundamental matrices/trifocal tensors, mixtures of linear dynamical models), the "chicken-and-egg" dilemma can be tackled using an algebraic geometric technique called Generalized Principal Component Analysis (GPCA). In fact, it is possible to eliminate the data segmentation step algebraically and then use all the data to recover all the models without first segmenting the data. The solution can be obtained using linear algebraic techniques, and is a natural extension of classical PCA from one to multiple subspaces.
+The second part of this talk will present a novel algorithm for clustering data sampled from multiple submanifolds of a Riemannian manifold, e.g. the space of probability density functions. The algorithm, called Locally Linear Manifold Clustering (LLMC) is based on clustering a low-dimensional representation of the data learned using generalizations of local nonlinear dimensionality reduction algorithms from Euclidean to Riemannian spaces.
+The talk will also present a few motivating applications of manifold clustering to hybrid system identification, and computer vision problems such as texture clustering, segmentation of rigid body motions, segmentation of dynamic textures, segmentation of diffusion MRI. 
+
+ </span></td>
+<td align="right"> </td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+
+
+
+
+<!---------------------------------------------------------------------->
+ <tr class="GreyCell">
+<td><span class="InGreyCell">Friday, Dec. 5, 2008, 12:00-1:00    </span></td>
+<td align="right"><span class="InGreyCell">MP 401</span></td></tr>
+
+
+<tr class="DarkGreyCell">
+<td colspan="2"><span class="InDarkGreyCell">
+Scalable algorithms for analysis of metabolic and gene networks
+</span></td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell">- Prof. Calin Belta, Boston University </span></td>
+<td align="right"> </td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell"> Abstract: Bacteria continuously respond to environmental changes through a complicated mechanism consisting of an interplay between metabolic and
+gene networks. Through hundreds of chemical reactions, the metabolic
+network converts nutrients from the environment to elements necessary for
+growth and survival of the cell. Most of these chemical reactions are
+regulated by enzymes produced by a gene network. In turn, the expression
+of the genes from the gene network is regulated by its own products and
+metabolites produced by the metabolic network.
+
+
+In the first part of the talk, I will show how a quasi-steady state
+assumption on the dynamics of the metabolic network, combined with tools
+from convex analysis and in vivo survivability data, can lead to
+predictions such as essentiality of metabolites, nutrients, and chemical
+reactions and lead to insights into robustness of metabolism to gene
+mutations. In the second part of the talk, I will focus on gene networks.
+I will show how a particular approach to modeling, together with discrete
+abstractions and model checking, can be used to tune and analyze gene
+networks from qualitative specifications given as arbitrary temporal and
+logic statements over species concentrations.
+
+
+
+ </span></td>
+<td align="right"> </td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</TABLE>								
+<hr>
+
+
+
+
+<h2> <font color="blue"><b> Past Optimization and Control Seminars </b></font> </h2>
+
+ <ul>
+
+
+   <li> <h3> <a href="optsminear_08S.html">Optimization and Control Seminar, Spring 2008 </a> </h3>
+
+
+   <li> <h3> <a href="optseminar_07F.html">Optimization and Control Seminar, Fall 2007 </a> </h3>
+   <li> <h3> <a href="optseminar_07spring.html">Optimization Seminar, Spring 2007 </a> </h3>
+
+ </ul>
+
+<hr>

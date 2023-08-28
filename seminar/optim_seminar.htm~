@@ -1,0 +1,213 @@
+<TABLE width="90%" border="0" cellspacing="0" cellpadding="0">
+
+<h2> <font color="blue"><b> Optimization and Control Seminar, Spring 2009 </b></font> </h2>
+
+<!---------------------------------------------------------------------->
+ <tr class="GreyCell">
+<td><span class="InGreyCell">Thursday, April 2, 2009, 12:00-1:00 pm   </span></td>
+<td align="right"><span class="InGreyCell">SOND 406</span></td></tr>
+
+<tr class="DarkGreyCell">
+<td colspan="2"><span class="InDarkGreyCell">
+Convexification and Robustification in Data Fitting
+ </span></td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell">- Dr. James T.-H. Lo </span></td>
+<td align="right"> </td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell"> Abstract: 
+Two theorems will be discussed concerning the use of a type of
+risk-averting error (RAE) criterion for fitting parametric or nonparametric
+models to data. Theorem 1 states that the convexity region of the RAE
+criterion expands monotonically as its risk-sensitivity index $B&K(B increases.
+Theorem 2 states that as $B&K(B increases to infinity, the RAE criterion
+approaches the minimax error criterion.
+
+The RAE criterion is easily seen to converge to the mean squared error (MSE)
+criterion as its $B&K(B goes to zero. Theorem 1 suggests that the RAE criterion
+can be used to convexify the MSE criterion to avoid poor local minima. By
+increasing $B&K(B gradually, tunnels (or worm holes) are created for a
+local-search minimization procedure (e.g., quasi-Newton and conjugate
+gradient) to travel through to a better and better local minimum.
+
+The minimax error criterion is widely used for robustifying system
+identifiers, controllers and filters. It comes from the game theory and is
+known to be too pessimistic in most applications. Moreover, it is difficulty
+to use. Theorem 2 shows that the RAE criterion with a very large $B&K(B acts like
+the minimax error criterion, but is easier to use. More important, the RAE
+criterion induces a continuous range of robustness indexed by $B&K(B ranging from
+0 to $B!g(B. The induced range of robustness ranges from the MSE (or zero)
+robustness at one end to the minimax (or infinite) robustness at the other
+end. Depending on the application, a suitable degree of robustness can be
+selected.
+
+ </span></td>
+<td align="right"> </td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+
+<!------------------------------------------------------->
+
+ <tr class="GreyCell">
+<td><span class="InGreyCell">Thursday, April 9, 2009, 12:00-1:00    </span></td>
+<td align="right"><span class="InGreyCell">SOND 406</span></td></tr>
+
+<tr class="DarkGreyCell">
+<td colspan="2"><span class="InDarkGreyCell">
+A Gershgorin type theorem, spectral inequalities, and simultaneous
+stability in Euclidean Jordan algebras
+ </span></td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell">- Melania Moldovan </span></td>
+<td align="right"> </td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell"> Abstract: 
+ For complex square matrices, the Levy-Desplanques theorem asserts that
+a strictly diagonally dominant matrix is invertible. The well-known
+Gershgorin theorem on the location of eigenvalues is equivalent to
+this. In the first part of the talk, we present an extension of the
+Levy-Desplanques theorem to an object in a Euclidean Jordan algebra.
+As a consequence, we prove a Gershgorin type theorem for the spectral
+eigenvalues of an object in a Euclidean Jordan algebra.
+      In matrix theory, the well known Cauchy's interlacing theorem states
+that if a row-column pair is deleted from a real symmetric matrix,
+then the eigenvalues of the resulting principal matrix interlace those
+of the original one. This result was generalized recently to the
+setting of simple Euclidean Jordan algebras by Gowda and Tao. In the
+second part of the talk, we present some consequences of this
+generalization and prove the dual form of the min-max theorem of
+Hirzebruch.  
+      Using duality and complementarity ideas, and {\bf Z}-transformations,
+in the third part of the talk, we discuss ways of describing
+simultaneous stability of linear transformations on Hilbert spaces. As
+a consequence, we discuss the existence of common linear/quadratic
+Lyapunov functions for switched linear systems. In particular, we
+extend a recent result of Mason-Shorten on positive switched system
+with two constituent linear time-invariant systems to an arbitrary
+finite system.
+
+
+ </span></td>
+<td align="right"> </td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+
+
+
+
+<!------------------------------------------------------->
+
+ <tr class="GreyCell">
+<td><span class="InGreyCell">Thursday, April 23, 2009, 12:00-1:00    </span></td>
+<td align="right"><span class="InGreyCell">SOND 406</span></td></tr>
+
+<tr class="DarkGreyCell">
+<td colspan="2"><span class="InDarkGreyCell">
+A homogeneous model for monotone mixed linear complementarity
+problems
+ </span></td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell">- Cosmin Petra </span></td>
+<td align="right"> </td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell"> Abstract: 
+In optimization, a homogeneous model is an artificial transformation of a
+given problem. The transformation is done such that the homogeneous problem
+has always a solution even if the original  problem does not. Moreover,
+without having any assumption on the feasibility of the original problem,
+the homogeneous model is able to provide the solution if it exists, or a
+certificate of infeasibility otherwise. In this work we introduce a
+homogeneous model for mixed linear complementarity problems which represent
+a generalization of the standard linear complementarity problems. We also
+show that the homogeneous problem can be efficiently solved using
+interior-point path-following methods.
+
+
+ </span></td>
+<td align="right"> </td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+
+<!------------------------------------------------------->
+
+ <tr class="GreyCell">
+<td><span class="InGreyCell">Friday, May 1, 2009, 12:00-1:00    </span></td>
+<td align="right"><span class="InGreyCell">MP 401</span></td></tr>
+
+<tr class="DarkGreyCell">
+<td colspan="2"><span class="InDarkGreyCell">
+Hybrid inclusions: modeling and analysis of dynamical systems
+with continuous-time and discrete-time features
+ </span></td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell">- Dr. Rafal Goebel </span></td>
+<td align="right"> </td></tr>
+
+<tr class="GreyCell">
+<td><span class="InGreyCell"> Abstract: 
+Various dynamical systems exhibit behaviors usually attributed to
+continuous-time systems and behaviors usually attributed to discrete-time
+systems. For example, currents in a circuit can change continuously, according to
+Kirchoff's laws, and instantly, due to switches opening and closing.
+Similarly, control algorithms designed for
+continuous-time control systems may involve timers that are reset, modes
+of operation that switch from one to another, etc. Hybrid inclusions
+provide a simple framework for modeling and analysis of such systems,
+through a combination of differential inclusions, difference
+inclusions, and constraints on the motions resulting from these inclusions.
+
+
+After motivating examples and an overview of some other mathematical
+approaches to dynamical systems that combine continuous-time and
+discrete-time dynamics, the talk will present the framework of and basic
+results for differential inclusions. The use of generalized time domains
+for the parameterization of solutions to differential inclusions will be
+motivated. Elements of asymptotic stability theory for differential
+inclusions will be presented. In particular, a technique of approximating a hybrid inclusion with a simpler one, far generalizing the concept of linearization, will be described. Then,
+asymptotic stability for a hybrid inclusion will be deduced from
+asymptotic stability for the
+approximation.
+
+
+ </span></td>
+<td align="right"> </td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+
+
+
+
+<!------------------------------------------------------>
+
+	</TABLE>								
+<hr>
+
+
+
+
+<h2> <font color="blue"><b> Past Optimization and Control Seminars </b></font> </h2>
+
+ <ul>
+  
+   <li> <h3> <a href="optseminar_08F.html">Optimization and Control Seminar, Fall 2008 </a> </h3>
+
+   <li> <h3> <a href="optsminear_08S.html">Optimization and Control Seminar, Spring 2008 </a> </h3>
+
+
+   <li> <h3> <a href="optseminar_07F.html">Optimization and Control Seminar, Fall 2007 </a> </h3>
+   <li> <h3> <a href="optseminar_07spring.html">Optimization Seminar, Spring 2007 </a> </h3>
+
+ </ul>
+
+<hr>
